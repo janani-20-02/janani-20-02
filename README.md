@@ -127,6 +127,40 @@
 
 ---
 
+<br>
+
+---
+
+## 🏆 Coding & Achievements
+
+<div align="center">
+
+<a href="https://linkedin.com/in/janani-s-62150932b">
+<img src="https://img.shields.io/badge/LinkedIn-Janani%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/dXJnun1V6E/">
+<img src="https://img.shields.io/badge/LeetCode-100+%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+🧩 **100+ LeetCode Problems Solved**
+
+💻 **Building & documenting real-world projects**
+
+🚀 **Exploring AI/ML + Full Stack Development**
+
+</div>
+
+<br>
+
+---
+
 ## 📊 GitHub Journey
 
 <div align="center">
@@ -163,3 +197,6 @@
 🤖 Experiment with AI
    ↓
 🚀 Ship & Improve
+
+
+
