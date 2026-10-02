@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="./janani-banner.png" width="100%" />
+<img src="./Janani's Build Create Solve Banner.png" width="100%" />
 
 </div>
 ---
